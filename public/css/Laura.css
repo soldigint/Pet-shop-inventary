@@ -1,0 +1,73 @@
+html {	 
+	background-color: 221433;
+}
+
+body{
+    background-color: ghostwhite;
+}
+header{
+    background-color: goldenrod;
+}
+.titulares {
+    background-color: #447799;
+    font-size:30px;
+    display: table-header-group;
+    top:0;
+    left:0;
+    width: 100%;
+    position:fixed;
+   
+   
+  
+}
+.titulares-link { 
+    color: darkorange;
+    text-decoration:none;
+   
+}
+
+.titulo {
+    color: darkblue;
+    font-size:50px;
+   font-family: fantasy;
+  
+}
+
+.cuerpito{
+    overflow: scroll;
+    position: relative;
+    text-align: justify;
+    color: green;
+    font-family: fantasy;
+    font-size:30px;
+}
+.letrotas{
+    overflow: scroll;
+    position: relative;
+    text-align: justify;
+    color: darkgreen;
+    font-family: fantasy;
+    font-size:200px;
+}
+.fabulas{
+    overflow: scroll;
+    position: relative;
+    text-align: justify;
+    color: orangered
+    font-family: fantasy;
+    font-size:50px;
+}
+
+.piecito{
+    text-align: center;
+     background-color: #998877;
+    font-size:20px;    
+   bottom:0;
+    left:0;
+    width: 100%;
+    position:fixed;
+}
+
+@media screen and (max-width: 768px) {
+
+}
